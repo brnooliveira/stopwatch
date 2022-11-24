@@ -1,4 +1,0 @@
-# stopwatch
-# stopwatch
-# teste
-# teste

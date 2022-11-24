@@ -10,8 +10,8 @@ internal class Program
     static void Menu()
     {
         Console.Clear();
-        Console.WriteLine("S = Segundo => 10s = 10 segundos!");
-        Console.WriteLine("M = Minuto => 1m = 1 minuto!");
+        Console.WriteLine("S = Segundo => 10s = 10 segundos!!");
+        Console.WriteLine("M = Minuto => 1m = 1 minuto!!");
         Console.WriteLine("0 = Sair");
         Console.WriteLine("Quanto tempo deseja contar?");
 
